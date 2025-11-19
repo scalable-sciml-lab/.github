@@ -1,6 +1,6 @@
 # Scalable Scientific Machine Learning Lab
 
-## Links to external repositories built by our lab members
+## List of external repositories built by our lab members
 
 [Neural geodesic flows](https://github.com/julianbuerge/neural_geodesic_flows)
 
